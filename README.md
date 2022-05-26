@@ -1,7 +1,7 @@
-# Personal_Webpage_Project
+# HTML & CSS Webpage
 
-Este é um site pessoal que estou criando como um modo de aprender HTML, CSS e JS no processo. Não está finalizado e não tenho previsão de quando estará.
+Este é um site criado em HTML e CSS com o objetivo de aprendizado.
 
 .........................................................................................................................................................................
 
-This is a website I'm creating for myself so I could learn raw HTML, CSS and JS in the process. It is not finished and I have no idea when it will be.
+This is a website made with raw HTML and CSS. It was made with learning purposes.
